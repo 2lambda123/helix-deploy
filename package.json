@@ -44,7 +44,7 @@
     "@aws-sdk/client-secrets-manager": "3.454.0",
     "@aws-sdk/client-ssm": "3.454.0",
     "@aws-sdk/client-sts": "3.454.0",
-    "@fastly/js-compute": "3.7.3",
+    "@fastly/js-compute": "3.16.0",
     "@google-cloud/functions": "3.0.1",
     "@google-cloud/secret-manager": "5.0.1",
     "@google-cloud/storage": "7.6.0",
